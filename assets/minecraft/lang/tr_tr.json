@@ -170,7 +170,7 @@
   "subtitles.entity.warden.sonic_boom": "Warden sonik patlama yapıyor",
   "subtitles.entity.warden.sonic_charge": "Warden sonik patlama hazırlıyor",
   "subtitles.entity.warden.step": "Warden adım atıyor",
-  "death.attack.sonic_boom": "%1$s, Yüksek Sesli bir Çığlık tarafından öldürüldü",
+  "death.attack.sonic_boom": "%1$s, Yüksek Sesli bir Çığlık tarafıondan öldürüldü",
   "death.attack.sonic_boom.player": "%1$s, Yüksek Sesli bir çığlıdan kaçarken %2$s tarafından öldürüldü",
   "block.minecraft.furnace": "Fırın",
   "entity.minecraft.axolotl": "Axolotl",
