@@ -2,11 +2,13 @@
 
 Minecraft için özel isimlendirmeler ve detaylı düzenlemeler içeren geliştirilmiş Türkçe kaynak paketi.
 
-## Özellikler
+## V1.1 Sürüm Yenilikleri 
 
-* **İsimlendirmeler Değişiklikleri:** "Muhafız" yerine ingilizcesi olan **Warden** gibi isim düzeltmeleri.
-* **Yenilenen Başarımlar:** Oyundaki Başarımları **Hepsini değil** değiştiren ve geliştirmeler.
-* **Gelişmiş Item İsimlendirmeleri:** "Kızıl Hif" gibi itemların olması gerektiği gibi çevrilmesi.
+* **İsimlendirmeler Değişiklikleri:** "Muhafız" yerine ingilizcesi olan **Warden** gibi isim düzeltmeleri artık Altyazılar, Çağırma Yumurtaları ve Ölüm Ekranlarına eklendi.
+* **Yenilenen Başarımlar:** Oyundaki Başarımların Çoğu elden geçirildi.
+* **Gelişmiş Item İsimlendirmeleri:** Oyuna 26.2 ile eklenen "Zincifare" olan block adı "Sinebar" ve dahası değiştirildi ile değiştirildi.
+**Şapkalı A kaldırıldı:** Oyunda Rüzgar gibi kelimelerde bulunan Şapkalı A Creative Menüsü Sorun Çıkarma Gerekçesiyle Değiştirildi
+**Onarımın Adı Düzeltildi:** 1.20 ile değişen Tamir yeni adıyla Onarım yeniden Tamir adını koyduk.
 
 ## Kurulum
 
