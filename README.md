@@ -16,6 +16,7 @@ Minecraft için özel isimlendirmeler ve detaylı düzenlemeler içeren gelişti
 4. İndirdiğiniz `.zip` dosyasını bu klasörün içine atın.
 5. Oyuna geri dönün, paketi aktif listeye taşıyıp onaylayın.
 
+Modrinth Sayfası: https://modrinth.com/resourcepack/better-turkish-translation
 ## Lisans
 
 Bu proje **GNU General Public License v3.0 (GPLv3)** lisansı altında korunmaktadır. Detaylı bilgi için [LICENSE](LICENSE) dosyasına göz atabilirsiniz.
