@@ -10,7 +10,7 @@ Minecraft için özel isimlendirmeler ve detaylı düzenlemeler içeren gelişti
 
 ## Kurulum
 
-1. Bu depodan veya [Modrinth]((https://modrinth.com/resourcepack/better-turkish-translation)) sayfasından kaynak paketinin `.zip` dosyasını indirin.
+1. Bu depodan veya [Modrinth]([https://modrinth.com/resourcepack/better-turkish-translation]) sayfasından kaynak paketinin `.zip` dosyasını indirin.
 2. Minecraft'ı açın ve **Seçenekler (Options)** > **Kaynak Paketleri (Resource Packs)** menüsüne gidin.
 3. **Paket Klasörünü Aç (Open Pack Folder)** butonuna tıklayın.
 4. İndirdiğiniz `.zip` dosyasını bu klasörün içine atın.
