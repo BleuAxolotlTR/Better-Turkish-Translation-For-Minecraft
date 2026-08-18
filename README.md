@@ -82,6 +82,8 @@ Minecraft 2 Çıktığı Zaman :)
 <details>
 <summary><b>Başarımlar</b></summary>
 
+<br>
+
 "Geliştirme", "Maden Zamanı" Olarak değiştirildi
 </blockquote>
 
@@ -190,7 +192,9 @@ Ve Dahası
 
 <details>
 <summary><b>Item ve Block'lar</b></summary>
-
+  
+<br>
+  
 "Kızıl Hif", "Kızıl Odun" Olarak değiştirildi
 </blockquote>
 
