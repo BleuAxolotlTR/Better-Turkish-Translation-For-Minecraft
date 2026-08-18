@@ -310,7 +310,7 @@
     "argument.entity.invalid": "Geçersiz ad veya UUID",
     "argument.entity.notfound.entity": "Hiçbir varlık bulunamadı",
     "argument.entity.notfound.player": "Hiçbir oyuncu bulunamadı",
-    "argument.entity.options.advancements.description": "Gelişimi yapmış olan oyuncular",
+    "argument.entity.options.advancements.description": "Başarımı yapmış olan oyuncular",
     "argument.entity.options.distance.description": "Varlığa olan mesafe",
     "argument.entity.options.distance.negative": "Mesafe negatif olamaz",
     "argument.entity.options.dx.description": "x ve x + dx arasındaki varlıklar",
