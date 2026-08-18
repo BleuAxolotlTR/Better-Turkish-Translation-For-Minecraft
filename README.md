@@ -10,8 +10,8 @@ Minecraft için özel isimlendirmeler ve detaylı düzenlemeler içeren gelişti
 * 4- "Berbat Bir Kale", "Köz Kalenin Eşiğinde" Olarak değiştirildi (Fortress'a girme başarımı)
 * 5- "Canavar Bükücü", "Kılıç Ustası" Olarak değiştirildi (tüm canavarları kesme bnaşarımı)
 * 6- "Nişan Al", "Mete Gazoz" Olarak değiştirildi (Yay ile Ateş Etme Başlarımı)
-* 7- "Çok Ama Çok Korkutucu", "Kariyer Değişikliği" Olarak değiştirildi (Bir Köylüyü Yıldırmla Cadı Yapma Başarımı)
-* 8- "Sinsilik: 100", "Shhh, Sessizlik" Olarak değiştirildi (Sculk sensörü veya Warden'nın yanında Eğilme Başarımı)
+* 7- "Çok Ama Çok Korkutucu", "Kariyer Değişikliği" Olarak değiştirildi (Bir Köylüyü Cadı Yapma Başarımı)
+* 8- "Sinsilik: 100", "Shhh, Sessizlik" Olarak değiştirildi (Sculk sensörünün yanında Eğilme Başarımı)
 * 9- "Kiralık Yardımcı", "Bodyguard" Olarak değiştirildi (Demir Golem Yapma Başarımı)
 * 10- "Arbalistik", "Delici Zeka Ürünü" Olarak değiştirldi
 * 11- "Gez Göz Arpacık", "Yay'dan Çıkmak" Olarak değiştirldi (Arbalet alma başarımı)
