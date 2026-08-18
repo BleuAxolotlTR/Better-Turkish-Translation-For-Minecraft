@@ -32,7 +32,9 @@ Minecraft 2 Çıktığı Zaman :)
 
 <details>
 <summary><b>Moblar</b></summary>
+  
 <br>
+  
 "Huzurveren", "Allay" Olarak değiştirildi
 </blockquote>
 
