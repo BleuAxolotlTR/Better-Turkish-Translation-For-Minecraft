@@ -140,13 +140,13 @@ Minecraft 2 Çıktığı Zaman :)
 "Üreticiler Üretici Üretiyor", "Dupelamak" Olarak değiştirildi
 </blockquote>
 
-"Arbalistik", "Delici Zeka Ürünü" Olarak değiştirildi
+"Arbalistik", "Delik Deşik Sanatık" Olarak değiştirildi
 </blockquote>
 
 "Akım Koruyucusu", "Zeus'a İnat" Olarak değiştirildi
 </blockquote>
 
-"Beni Evime İt, Eyy Manyetit", "Doğum Günü Hediyesi" Olarak değiştirildi
+"Doğum Günü Şarkısı", "Doğum Günü Hediyesi" Olarak değiştirildi
 </blockquote>
 
 "Köyün Kahramanı ", "Milletin Efendisi" Olarak değiştirildi
@@ -161,7 +161,7 @@ Minecraft 2 Çıktığı Zaman :)
 "Macera Zamanı", "Kristof Kolomb!" Olarak değiştirildi
 </blockquote>
 
-"Canavar Bükücü", "Kılıç Ustası" Olarak değiştirildi
+"Canavar Bükücü", "Abinizi Getirin" Olarak değiştirildi
 
 "Öleyazmak", "Ölüme Meydan Okumak" Olarak değiştirildi
 </blockquote>
@@ -177,6 +177,8 @@ Minecraft 2 Çıktığı Zaman :)
 
 "Yıldız Tüccarı", "En Ünlü Tüccar" Olarak değiştirildi
 </blockquote>
+
+Ve Dahası
 </blockquote>
 
 
