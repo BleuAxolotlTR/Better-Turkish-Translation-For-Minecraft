@@ -20,7 +20,8 @@ Minecraft için özel isimlendirmeler ve detaylı düzenlemeler içeren gelişti
 * 14- "Sıcak Şey", "Ateş Pahası" Olarak değiştirildi (Lav alma başarımı)
 * 15- "Buzlu Kovbaya Meydan Okuması", "Lav ve Su Arasında.." Olarak değiştirildi
 * 16- Başarım Açılamaları Düzenlendi 
-* 17- [Modrinth](https://modrinth.com/resourcepack/better-turkish-translation) Sayfası Açıldı !! 
+* 17- Eski Kötü Çeviriler Kaldırıldı
+* 18- [Modrinth](https://modrinth.com/resourcepack/better-turkish-translation) Sayfası Açıldı !! 
 
 
 
